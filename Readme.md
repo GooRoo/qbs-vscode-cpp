@@ -34,3 +34,7 @@ Unfortunately, due to a [dumb restriction](http://doc.qt.io/qbs/custom-modules.h
 ### Pre-requisites
 
 The module relies on the presence of `.vscode/c_cpp_properties.json` file in your root folder. If you don't have one, generate it with a **C/Cpp: Edit Configurations...** command in your Visual Studio Code.
+
+## License
+
+The module is distributed under the terms of [MIT license](LICENSE).
