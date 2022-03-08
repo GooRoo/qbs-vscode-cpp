@@ -1,4 +1,4 @@
-![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=for-the-badge)
+[![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=for-the-badge)](https://github.com/GooRoo/ukrainian-shields)
 
 This module provides a handy way to use [Qbs](http://doc.qt.io/qbs/) with the [C/C++ extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) for Visual Studio Code. It is able to pass such an information like defines, list of include paths, etc. from the build system to the extension.
 
